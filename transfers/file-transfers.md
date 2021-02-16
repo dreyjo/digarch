@@ -96,6 +96,7 @@ Files that have been updated by the donor within the past 30
 * Run [ft.sh ](../software#ftsh){:target="_blank"} to create a transfer package.   
 
 On Windows: 
+{: .label }
 * Start Cygwin from the desktop. A terminal like screen should appear.
 
 ![](media/image2.png)  
