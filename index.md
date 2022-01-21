@@ -25,9 +25,9 @@ The program works with all digital materials from the 1980s to the present day s
 {: .no_toc }
 Consults on assessments of born-digital material before accessioning, transfers digital objects from original media, supports archivists during processing of electronic records, and packages collections for long-term storage and access.
 
-### Caroline Gil Rodríguez, Digital Archives Assistant
+### Drey Jonathan, Digital Archives Assistant
 {: .no_toc }
-Consults on assessments of born-digital material before accessioning, transfers digital objects from original media, supports archivists during processing of electronic records, and packages collections for long-term storage and access.
+Transfers digital objects from original media, supports archivists during processing of electronic records, and packages collections for long-term storage and access.
 
 ### Nick Krabbenhoeft, Digital Preservation Manager
 {: .no_toc }
